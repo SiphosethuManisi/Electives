@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "838277062618",
+    "firebase_url": "https://electives-d45d4.firebaseio.com",
+    "project_id": "electives-d45d4",
+    "storage_bucket": "electives-d45d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838277062618:android:0d66179810353e6b962ae3",
+        "android_client_info": {
+          "package_name": "digital.codepro.electives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838277062618-c09q86ed5lgvrsphcroa4rseuneolhj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "digital.codepro.electives",
+            "certificate_hash": "6b1f610f47e5763a1ea7fac7d96a7deba454a2fb"
+          }
+        },
+        {
+          "client_id": "838277062618-on83c16ud3q2ih81pr641ockqj1a28ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg3iKMIplrqdL_CkXB889W7Q0Wd6lIvJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838277062618-on83c16ud3q2ih81pr641ockqj1a28ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
